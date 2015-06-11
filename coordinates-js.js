@@ -2,7 +2,7 @@
 
 
 
-var BaseJS = function(){
+var Coord = function(){
 
 	/*
 		Math , Calculations etc
